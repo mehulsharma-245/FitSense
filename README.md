@@ -6,8 +6,6 @@ A working end-to-end MVP built on a **₹0 stack** (local LLM, self-hosted autom
 
 > 🎥 **Demo video:** [ADD LOOM/YOUTUBE LINK]
 
-This repo is the engineering MVP that helps you in understanding that whether a fashion product would fit you or not and if yes which size should you buy.
-
 ---
 
 ## The problem
