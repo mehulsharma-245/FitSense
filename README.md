@@ -5,12 +5,8 @@
 A working end-to-end MVP built on a **₹0 stack** (local LLM, self-hosted automation, free messaging) — designed so the production upgrade is a config change, not a rebuild.
 
 > 🎥 **Demo video:** [ADD LOOM/YOUTUBE LINK]
->
-> 📸 **The personalisation proof:** same product link, different users, different size advice:
->
-> [ADD SIDE-BY-SIDE SCREENSHOT — e.g. snug-fit user told M, relaxed-fit user told L]
 
-> Built as a working implementation of the [FitSense product case study by Asmit Birthare](https://github.com/asmit1624/fitsense_product_case_study). The product concept and case study are his; this repo is the engineering MVP that makes it run.
+This repo is the engineering MVP that helps you in understanding that whether a fashion product would fit you or not and if yes which size should you buy.
 
 ---
 
